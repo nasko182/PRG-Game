@@ -37,38 +37,38 @@ Welcome to the Console RPG Game! Dive into an exciting console-based role-playin
 - Explore the game world and battle monsters.
 
 ### Character Selection
--Upon starting the game, you'll go through the following steps:
+Upon starting the game, you'll go through the following steps:
 
 #### 1. **Main Menu**
--Displays a welcome message.
+Displays a welcome message.
 
 #### 2. **Character Selection**
--Choose your character type (Warrior, Archer, Mage).
+Choose your character type (Warrior, Archer, Mage).
 
-#### 3. **Buffing Up Stats**
--Optionally add up to 3 points to your character's stats (Strength, Agility, Intelligence).
--Confirm whether you want to buff up your stats.
+#### Buffing Up Stats
+- Optionally add up to 3 points to your character's stats (Strength, Agility, Intelligence).
+- Confirm whether you want to buff up your stats.
 
 ### In-Game
--After character selection, you'll enter the in-game environment.
+After character selection, you'll enter the in-game environment.
 
-#### 1. **Controls**
+#### Controls
 
-**Movement:**
--W: Move up
--S: Move down
--A: Move left
--D: Move right
--E: Move diagonally up & right
--X: Move diagonally down & right
--Q: Move diagonally up & left
--Z: Move diagonally down & left
+- **Movement:**
+  - W: Move up
+  - S: Move down
+  - A: Move left
+  - D: Move right
+  - E: Move diagonally up & right
+  - X: Move diagonally down & right
+  - Q: Move diagonally up & left
+  - Z: Move diagonally down & left
 
-**Actions:**
--Health and Mana are displayed above the game field.
--Choose between Move or Attack each turn.
+- **Actions:**
+  - Health and Mana are displayed above the game field.
+  - Choose between Move or Attack each turn.
 
-#### 2. **Gameplay**
+#### Gameplay
 
 - **Battle Against Monsters:**
   - Engage in turn-based battles with monsters.
@@ -79,10 +79,10 @@ Welcome to the Console RPG Game! Dive into an exciting console-based role-playin
   - Explore a 10x10 grid-based world.
   - New monsters appear randomly in the matrix.
 ### Entity Framework Model
--The game includes an Entity Framework model to store hero data and game logs.
+The game includes an Entity Framework model to store hero data and game logs.
 
 ### Contributing
--Feel free to contribute to the development of this game by submitting pull requests or opening issues. Let's make this adventure even more exciting!
+Feel free to contribute to the development of this game by submitting pull requests or opening issues. Let's make this adventure even more exciting!
 
 ### License
--This project is licensed under the MIT License - see the LICENSE file for details. Enjoy your journey in the Console RPG Game!
+This project is licensed under the MIT License - see the LICENSE file for details. Enjoy your journey in the Console RPG Game!
